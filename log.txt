@@ -1,4 +1,11 @@
+<<<<<<< log/a-conflict
 a nw log
+=======
+a new lo
+test
+test
+test
+>>>>>>> similar changes
 test
 test
 
@@ -6,8 +13,7 @@ tet
 test
 
 
-
-
+t
 
 
 
