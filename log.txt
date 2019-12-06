@@ -4,6 +4,7 @@ a nw log
 a new lo
 test
 test
+testrew
 test
 >>>>>>> similar changes
 test
